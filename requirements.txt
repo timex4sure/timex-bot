@@ -5,4 +5,4 @@ nest-asyncio
 sqlmap
 flask
 gunicorn
-dns
+dnspython
