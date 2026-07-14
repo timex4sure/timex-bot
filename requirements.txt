@@ -1,0 +1,7 @@
+telethon
+requests
+urllib3
+nest-asyncio
+sqlmap
+flask
+gunicorn
